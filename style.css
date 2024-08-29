@@ -178,7 +178,8 @@ footer {
   }
 }
 
-/* animation */
+/* animation concertado
+ */
 @keyframes slide-in {
   from {
     left: 0;
