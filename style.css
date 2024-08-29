@@ -184,7 +184,7 @@ footer {
     left: 0;
   }
   to {
-    left: 50%;
+    right: 50%;
   }
 }
 
@@ -193,6 +193,6 @@ footer {
     left: 50%;
   }
   to {
-    left: 0;
+    right: 0;
   }
 }
